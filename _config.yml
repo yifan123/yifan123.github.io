@@ -1,10 +1,10 @@
 # Site settings
 title: LJ Blog
-SEOTitle: 阿杰的博客 | BY Blog
+SEOTitle: 一凡的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: ljie@buaa.edu.cn
 description: "道之所在，虽千万人吾往矣。"
-keyword: "BY, LJ Blog, 阿杰的博客, liujie, 阿杰, BUAA, code, computer"
+keyword: "BY, LJ Blog, 一凡的博客, liujie, 一凡, BUAA, code, computer"
 url: "http://yifan123.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yifan123/yifan123.github.io.git" # you code repository
