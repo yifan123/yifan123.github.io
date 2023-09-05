@@ -8,7 +8,7 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
-*.xml
-*.iml
-assets/resized
+# *.xml
+# *.iml
+# assets/resized
 *.lock
