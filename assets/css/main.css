@@ -543,7 +543,7 @@ footer.sticky-bottom {
   margin-bottom: 5px;
   object-fit: cover;
 }
-.publications ol.bibliography li .videoplayer {
+/* .publications ol.bibliography li .videoplayer {
   border-radius: 8px;
   margin: 5px;
   width: 100% !important;
@@ -557,7 +557,7 @@ footer.sticky-bottom {
   width: 100% !important;
   height: auto !important;
   object-fit: cover;
-}
+} */
 .publications ol.bibliography li .details {
   font-size: 0em;
 }
