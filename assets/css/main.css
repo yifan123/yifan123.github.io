@@ -545,12 +545,17 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .videoplayer {
   border-radius: 8px;
-  margin: 5px;   
+  margin: 5px;
+  width: 100% !important;
+  height: auto !important;
+  overflow: hidden;
 }
 
 .publications ol.bibliography li .videoplayer video {
   border-radius: 8px;
   box-shadow: 3px 3px 6px #888;
+  width: 100% !important;
+  height: auto !important;
   object-fit: cover;
 }
 .publications ol.bibliography li .details {
